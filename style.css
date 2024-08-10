@@ -14,6 +14,13 @@ img {max-width: 60%;}
     max-height: 100vh;
     border-radius: 25px
 }
+.text2 {
+    border-style: solid; 
+    background-color:rgb(224, 219, 207);
+    max-width: 100vw;
+    max-height: 100vh;
+    border-radius: 25px
+}
 .navbar ul {
 list-style-type: none;
 margin: 0;
